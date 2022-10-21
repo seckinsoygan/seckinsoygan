@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I'm always working on improve my software skills
+- 🌱 I’m always learning something
+- 📫 How to reach me: seckinsoygann@gmail.com
+
+Linkedin Profile:www.linkedin.com/in/niyaziseckinsoygan/
 <!--
 **seckinsoygan/seckinsoygan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
