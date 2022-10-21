@@ -2,7 +2,9 @@
 
 - 🔭 I'm always working on improve my software skills
 - 🌱 I’m always learning something
+- 💬 Ask me about C#,Java,API,Relational Database,SQL
 - 📫 How to reach me: seckinsoygann@gmail.com
+- My Experiences=>[My Resume](https://github.com/seckinsoygan/seckinsoygan/files/9842811/CV%2B-%2BNiyazi%2BSeckin%2BSoygan%2B-%2BNoPhoto.1.pdf)
 
 Linkedin Profile:www.linkedin.com/in/niyaziseckinsoygan/
 <!--
