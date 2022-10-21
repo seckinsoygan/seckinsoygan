@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![1_zVnWJtyGOX_kUIDm6ccCfQ](https://user-images.githubusercontent.com/102169103/197298502-dbe4530c-1c2d-45e5-86e8-3e44f1d28feb.gif)
