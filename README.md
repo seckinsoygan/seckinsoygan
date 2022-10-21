@@ -9,7 +9,6 @@ I am a computer engineer who is ambitious, enthusiastic, researcher and always t
 - 📫 How to reach me: seckinsoygann@gmail.com
 - My Experiences=>[My Resume](https://github.com/seckinsoygan/seckinsoygan/files/9842811/CV%2B-%2BNiyazi%2BSeckin%2BSoygan%2B-%2BNoPhoto.1.pdf)
 
-Linkedin Profile:www.linkedin.com/in/niyaziseckinsoygan/
 <!--
 **seckinsoygan/seckinsoygan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
