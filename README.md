@@ -1,5 +1,5 @@
-                                    ### Hi 👋, I'm Niyazi Seçkin Soygan
-I am a computer engineer who is ambitious, enthusiastic, researcher and always trying to improve myself.
+### Hi 👋, I'm Niyazi Seçkin Soygan
+###I am a computer engineer who is ambitious, enthusiastic, researcher and always trying to improve myself.
 
 ![giphy (1)](https://user-images.githubusercontent.com/102169103/197297233-a79c58e7-b228-4440-9c0f-b82ac779c5ea.gif)
 
