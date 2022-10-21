@@ -1,4 +1,5 @@
 ### Hi 👋, I'm Niyazi Seçkin Soygan
+I am a computer engineer who is ambitious, enthusiastic, researcher and always trying to improve myself.
 
 - 🔭 I'm always working on improve my software skills
 - 🌱 I’m always learning something
