@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Niyazi Seçkin Soygan
 
 - 🔭 I'm always working on improve my software skills
 - 🌱 I’m always learning something
