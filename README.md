@@ -10,8 +10,6 @@ I am a computer engineer who is ambitious, enthusiastic, researcher and always t
 - 📫 How to reach me : seckinsoygann@gmail.com || seckinsoygann@icloud.com
 - My Experiences : [My Resume](https://github.com/seckinsoygan/seckinsoygan/files/12262246/CV.-.Niyazi.Seckin.Soygan.-.Guncel.pdf)
 
-[![stats-card](https://kasroudra-stats-card.herokuapp.com/svg?user=seckinsoygan)](https://github.com/KasRoudra/stats-card)
-
 **seckinsoygan/seckinsoygan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
