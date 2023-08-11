@@ -1,4 +1,4 @@
-### Hi 👋, I'm Niyazi Seçkin SOYGAN
+### Hi 👋, I'm Niyazi Seçkin Soygan
 
 I am a computer engineer who is ambitious, enthusiastic, researcher and always trying to improve myself.
 
