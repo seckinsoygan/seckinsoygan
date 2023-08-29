@@ -9,3 +9,4 @@ I am a computer engineer who is ambitious, enthusiastic, researcher and always t
 - 💬 Ask me about .Net , Java , API , MVC , SQL , Git/Github
 - 📫 How to reach me : seckinsoygann@gmail.com || seckinsoygann@icloud.com
 - My Experiences : [My Resume](https://github.com/seckinsoygan/seckinsoygan/files/12262246/CV.-.Niyazi.Seckin.Soygan.-.Guncel.pdf)
+- My Website : https://seckinsoygan.com.tr/
